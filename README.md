@@ -7,7 +7,7 @@ Early in the 2019 NCAAM Basketball season, UVA was struggling. In fact, they wer
 ## Findings
 Only a handful of teams fit the aforementioned case, it has certainly happened before but is rare. 
 
-1985      Winner Returned           ( Villanova )
+-1985      Winner Returned           ( Villanova )
 1986      Winner Did NOT Return     ( Louisville )
 1987      Winner Returned           ( Indiana )
 1988      Winner Did NOT Return     ( Kansas )
